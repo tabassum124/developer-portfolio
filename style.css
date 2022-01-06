@@ -7,11 +7,12 @@ h1{
 }
 
 .lightblue-color{
-    color:lightblue;
+    color:rgb(47, 97, 114);
 
 }
 section{
     display: flex;
+    
 }
 .half-width{
     width:50%;
